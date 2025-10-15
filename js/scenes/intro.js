@@ -36,7 +36,7 @@ class Intro extends Scene {
     this.instructions = [
       "Use arrow keys to move",
       "Collect items to earn points",
-      "Need 100 points per level to advance",
+      "Need 200 points per level to advance",
       "Avoid fake items - they cost points!",
     ];
 
