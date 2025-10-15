@@ -11,7 +11,7 @@ let villian;
 
 //Game Score
 let playerScore = 0;
-let currentSceneIndex = 3;
+let currentSceneIndex = 0;
 let gameState = "playing"; 
 
 // End Global Variables**************
